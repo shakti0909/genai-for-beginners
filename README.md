@@ -3,9 +3,9 @@
 ### **📌 `genai-for-beginners` - Learn Generative AI from Scratch**  
 👨‍💻 Your step-by-step roadmap to mastering Generative AI &amp; LLMs! Hands-on notebooks covering prompting, RAG, rerankers, and more to get started today.
 
-[![Stars](https://img.shields.io/github/stars/yourusername/genai-for-beginners?style=social)](https://github.com/shakti0909/genai-for-beginners)  
-[![Forks](https://img.shields.io/github/forks/yourusername/genai-for-beginners?style=social)](https://github.com/shakti0909/genai-for-beginners)  
-[![License](https://img.shields.io/github/license/yourusername/genai-for-beginners)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/shakti0909/genai-for-beginners?style=social)](https://github.com/shakti0909/genai-for-beginners)  
+[![Forks](https://img.shields.io/github/forks/shakti0909/genai-for-beginners?style=social)](https://github.com/shakti0909/genai-for-beginners)  
+[![License](https://img.shields.io/github/license/shakti0909/genai-for-beginners)](LICENSE)  
 
 🚀 **Your Ultimate Guide to Getting Started with Generative AI!**  
 
@@ -85,7 +85,7 @@ jupyter notebook
 ## **📢 Contribute & Star 🌟**
 If you found this useful, **please ⭐ star the repo!** Contributions are welcome!  
 
-🔗 **[GitHub Repo](https://github.com/yourusername/genai-for-beginners)**  
+🔗 **[GitHub Repo](https://github.com/shakti0909/genai-for-beginners)**  
 
 ---
 
